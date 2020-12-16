@@ -1,5 +1,12 @@
 body {
-    background: darksalmon;
+    background:#38E4D9;
+}
+
+header {
+    color: #292929;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: large;
 }
 
 .fill {
@@ -17,7 +24,7 @@ body {
     height: 160px;
     width: 160px;
     margin: 10px;
-    border: 3px salmon solid;
+    border: 3px  #00BFB2 solid;
     background-color: white;
 }
 
@@ -32,4 +39,9 @@ body {
 
 .invisible {
     display: none;
+}
+
+footer {
+    color: #292929;
+    text-align: center;
 }
